@@ -10,16 +10,16 @@ Deployment: Implemented with Flask for an interactive interface.
 
 EDA: Detailed exploratory data analysis to understand data patterns and insights.
 ## Technology Used
-Python
+* Python
 
-Jupyter Notebook
+* Jupyter Notebook
 
-NumPy
+* NumPy
 
-Pandas
+* Pandas
 
-Scikit-learn
+* Scikit-learn
 
-Flask
+* Flask
 
 
