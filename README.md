@@ -26,7 +26,7 @@ A Support Vector Classifier is used for training the model. The dataset is split
 Flask is used to create an interactive interface where users can input symptoms and receive predictions about the diseases they might have. The application takes inputs for
 * Symptoms
 ## How to Run the Project
-### 1.Clone the Repository:
+##### 1. Clone the Repository:
 
 
 
