@@ -46,6 +46,7 @@ Flask is used to create an interactive interface where users can input symptoms 
 ## Code Structure
 * medicine_recommendation.ipynb: Contains the code for data preprocessing and exploratory data analysis.
 * main.py: Contains the Flask application code.
+![Alt text](1.jpg)
 
 
 
