@@ -27,7 +27,8 @@ Flask is used to create an interactive interface where users can input symptoms 
 * Symptoms
 ## How to Run the Project
 #### 1. Clone the Repository:
-$ npm install --save @github/clipboard-copy-element
+git clone <repository-link>
+cd <repository-name>
 
 
 
