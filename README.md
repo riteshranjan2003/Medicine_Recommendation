@@ -1,4 +1,4 @@
-# Medical-Recommendation-System
+# Medicine-Recommendation-System
 ## Project Overview
 This project involves building a machine learning model to predict the disease based on symptoms dataset. The system is deployed using Flask, providing an interactive and user-friendly interface for predictions.
 ## Features
